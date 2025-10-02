@@ -1,4 +1,5 @@
-## AI Model Example
+<title>AI Model Example</title>
+<h1>AI Model Example</h1> 
 
 ```python
 from tensorflow.keras.models import Sequential
