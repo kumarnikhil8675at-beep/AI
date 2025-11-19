@@ -7,3 +7,4 @@ model = Sequential([
     Flatten(),
     Dense(2, activation='softmax')
 ])
+e
